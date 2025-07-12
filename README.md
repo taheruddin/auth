@@ -3,7 +3,7 @@
 # User
 hpy@user.com
 # Password
-p@ssworD1234 = {bcrypt}$2a$10$8w22Ivp3S1g.RBdArAP09.hdrC3BVnC0Adez93gLQiFAnSTsV8Y6G
+p@ssworD1234
 
 # Keytool Command to Generate a JKS Keystore
 `cd resources/jks`
